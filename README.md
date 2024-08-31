@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seher GUMUSAY</h1>
-<div align="center">
-  <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.jpg" alt="Programming Background" width="800" />
-</div>
+
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Software Engineer with a keen interest in web development, AI, and all things code. I enjoy working on diverse projects, exploring new technologies, and sharing knowledge through writing and collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seherg&label=Profile%20views&color=0e75b6&style=flat" alt="seherg" /> </p>
