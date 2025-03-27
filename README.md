@@ -10,7 +10,7 @@
 
 ## 🚀 Hakkımda Kısaca
 
-Ben Seher, Fırat Üniversitesi'nde Yazılım Mühendisiyim. Kod yazmayı, fikir üretmeyi ve bilgiyi paylaşmayı seviyorum. Hem akademik dünyaya hem sektöre ilgi duyuyorum. Projelerimde yapay zeka, web teknolojileri ve eğitim odaklı uygulamaları birleştirmeyi önemsiyorum.
+Ben Seher, Fırat Üniversitesi'nde Yazılım Mühendisliği'nde Yüksek Lisans yapıyorum. Kod yazmayı, fikir üretmeyi ve bilgiyi paylaşmayı seviyorum. Hem akademik dünyaya hem sektöre ilgi duyuyorum. Projelerimde yapay zeka, web teknolojileri ve eğitim odaklı uygulamaları birleştirmeyi önemsiyorum.
 
 - 🎓 Fırat Üniversitesi – Yazılım Mühendisliği  
 - 🌍 Malatya, Türkiye  
