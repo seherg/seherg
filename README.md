@@ -58,8 +58,6 @@ Ben Seher, Fırat Üniversitesi'nde Yazılım Mühendisiyim. Kod yazmayı, fikir
 - [🔗 LinkedIn](https://www.linkedin.com/in/seher-gumusay/)  
 - [📰 Medium](https://medium.com/@shrgumusay)  
 - [🌐 Web](https://sehergumusay.info.tr)  
-- [📄 CV'mi Görüntüle](https://www.canva.com/design/DAF5AZ8chQc/fX3rkzPyfSn-oV7JfVacUw/edit?utm_content=DAF5AZ8chQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ---
 
 ## 📊 GitHub İstatistikleri
